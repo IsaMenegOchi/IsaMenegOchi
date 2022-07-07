@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-<h1 align="center">Olá dev 👋</h1>
+<h1 align="center">Olá dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"></h1>
 
 <!-- <a href="https://github.com/IsaMenegOchi/IsaMenegochi/blob/main/README-EN.md">🇺🇸 Do not speak Portuguese? Click here to view the english version.</a> -->
 
